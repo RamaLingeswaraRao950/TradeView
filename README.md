@@ -1,7 +1,6 @@
 # 📈 TradeView 🌍
 
-**TradeView Widget** is a web-based project that integrates the official **TradingView API** to display **real-time market charts**, indicators, and price analytics.  
-It provides live cryptocurrency tracking, dynamic charting, and customizable watchlists — all in a sleek, responsive layout. 💹  
+It integrates the official **TradingView API** to display **real-time market charts**, indicators, and price analytics. It provides live cryptocurrency tracking, dynamic charting, and customizable watchlists — all in a sleek, responsive layout. 💹  
 
 ---
 
@@ -43,19 +42,19 @@ It provides live cryptocurrency tracking, dynamic charting, and customizable wat
 ### 🚀 Live Demo :--
 
 - 🌐 Deployed On : Vercel
-- 🔗 https://trade-view-sand.vercel.app/.
+- 🔗 https://trade-view-sand.vercel.app/
 
 ---
 
 ⭐ Support :--
 
 If you find this project useful, please ⭐ star this repository — it helps others discover it !
-Your support keeps innovation alive. 💚
+Your support keeps innovation alive.💚
 
 ---
 
 👨‍💻 Author :--
 
 - Rama Lingeswara Rao
-- 💻 Built with precision and passion using HTML, CSS, JavaScript, and the TradingView API.
+- 💻 Built with precision and passion using Web technologies and the TradingView API.
 - 📈 Track smarter. Trade better.
